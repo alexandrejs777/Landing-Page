@@ -17,11 +17,15 @@ O objetivo é ter uma introdução a MVC (Model View Controller), onde o control
 <br>  
   
   <div style="display: inline_block"><br>
-    <img align="center" width:"70px" src="https://user-images.githubusercontent.com/85634326/135137834-547bc84b-7934-4ce8-bd1b-ba22e258c629.png">
+    <img align="center" width:"70px" src="https://user-images.githubusercontent.com/85634326/147840970-d04387cb-2f57-4701-b082-63206ba9501e.png">
   </div>                                                                                                                                     
   
 # Fontes
   
-  <p>Permanent Marker</p>
+  <p>Rightous (Regular 400)</p>
   
-  <p>https://fonts.google.com/specimen/Permanent+Marker#standard-styles</p>
+  <p>https://fonts.google.com/specimen/Righteous?query=right</p>
+  
+  <p>Salara (Regular 400, Bold 700)</p>
+  
+  <p>https://fonts.google.com/specimen/Sarala?query=saral</p>
