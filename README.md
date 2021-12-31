@@ -1,10 +1,6 @@
 # Landing-Page
 Projeto de estudo de uma Landing Page baseado no tutorial da instrutora Rafaella Ballerine
 
-# Objetivo
-
-O objetivo é ter uma introdução a MVC (Model View Controller), onde o controlador faz a ligação entre a parte visual e a funcional do projeto.<br>
-
 # Tecnologias Utilizadas
 
 <div style="display: inline_block"><br>
@@ -13,7 +9,7 @@ O objetivo é ter uma introdução a MVC (Model View Controller), onde o control
 
 # Link e Imagens do Projeto
  
-  <i>Link: https://alexandrejs777.github.io/Projeto_Jogo_Da_Velha/</i>
+  <i>Link: https://alexandrejs777.github.io/Landing-Page/</i>
 <br>  
   
   <div style="display: inline_block"><br>
