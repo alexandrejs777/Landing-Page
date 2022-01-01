@@ -1,5 +1,5 @@
 # Landing-Page
-Projeto de estudo de uma Landing Page baseado no tutorial da instrutora Rafaella Ballerine
+Projeto de estudo de uma Landing Page baseado no tutorial da instrutora Rafaella Ballerini.
 
 # Tecnologias Utilizadas
 
